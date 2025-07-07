@@ -2,6 +2,10 @@
 This repo covers basic **mathematical concepts** for engineers.  
 It includes:
 
+**0. Precalculus**
+---
+for KSAT
+
 **1. (Multivariable)Calculus**
 ---
 ex. **Stokes' Theorem**
